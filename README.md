@@ -10,9 +10,9 @@ Sugano Robocon Aチーム (益田隆太郎、大谷卓輝、須崎一眞、藤�
 <img src ="https://github.com/user-attachments/assets/04d4f3b6-3e6b-4002-861f-afd803203073" alt = "ab" width="300">
 
 ## 組織図
-![image](https://github.com/user-attachments/assets/ec0c7f7f-98cb-49b9-9cfa-b2ebe58e80e5)
+<img src ="https://github.com/user-attachments/assets/ec0c7f7f-98cb-49b9-9cfa-b2ebe58e80e" alt = "ac" width="300">
 ## システム図
-![image](https://github.com/user-attachments/assets/0d4073e5-67f8-46c0-a1f1-8d0ca5a49f9f)
+<img src ="https://github.com/user-attachments/assets/0d4073e5-67f8-46c0-a1f1-8d0ca5a49f9f" alt = "ac" width="300">
 ## カレンダー
 10月15日　ルール発表・顔合わせ  
 10月19日　機構設計完了（洲崎）  
