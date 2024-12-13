@@ -15,6 +15,17 @@ Sugano Robocon Aチーム (益田隆太郎、大谷卓輝、須崎一眞、藤�
 ## システム図
 <img src ="https://github.com/user-attachments/assets/0d4073e5-67f8-46c0-a1f1-8d0ca5a49f9f" alt = "ac" width="500">
 
+## このorganizationの説明
+[Honban_code_1]("https://github.com/Sugano-robocon-2024-A-group/Honban_code_1")のリポジトリに本番で使った制御のコードが入っています。
+使い方はの中のREADMEを参照。  
+[ESP32_WROOM32E_PCB_mr]("https://github.com/Sugano-robocon-2024-A-group/ESP32_WROOM32E_PCB_mr")に本番で使った基板のPCBデータが入っています。
+使い方はの中のREADMEを参照。  
+[ROBOT_CAD]("https://github.com/Sugano-robocon-2024-A-group/ROBOT_CAD")に機構設計のCADが入っています。
+使い方はの中のREADMEを参照。  
+
+基本的には上三つがあれば本番機体は作れます。
+[Mecanum_Encoder]("https://github.com/Sugano-robocon-2024-A-group/Mecanum_Encoder")にエンコーダの動確用のコードが入っています。ピン配置は中身を確認してください。
+４０個くらいリポジトリを作ったのですが（主に大谷が）、見にくいのでprivateにしました。organizationがすっきりしていますね。
 ## カレンダー
 10月15日　ルール発表・顔合わせ  
 10月19日　機構設計完了（洲崎）  
