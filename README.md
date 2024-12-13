@@ -5,7 +5,7 @@ Sugano Robocon Aチーム (益田隆太郎、大谷卓輝、須崎一眞、藤�
 ### @ 2024 Sugano Robocon A team
 連絡はX(@Masuda_moto)またはryutaro.masuda@akane.waseda.jpまで
 ## 機体
-ぶっ壊れた後の写真。飛距離は3m飛んでいた。
+ぶっ壊れた後の写真。飛距離は3m飛んでいた。  
 <img src ="https://github.com/user-attachments/assets/c3cd83a7-8463-4831-b37b-6de84b3bbeff" alt = "aa" width="300">
 <img src ="https://github.com/user-attachments/assets/04d4f3b6-3e6b-4002-861f-afd803203073" alt = "ab" width="300">
 
