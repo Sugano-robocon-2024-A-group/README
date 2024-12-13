@@ -14,6 +14,7 @@ Sugano Robocon Aチーム (益田隆太郎、大谷卓輝、須崎一眞、藤�
 
 ## システム図
 <img src ="https://github.com/user-attachments/assets/0d4073e5-67f8-46c0-a1f1-8d0ca5a49f9f" alt = "ac" width="500">
+
 ・メカナムで移動   
 ・ボールをサーボモータの装填機構で装填   
 ・サーボによる仰角調整   
